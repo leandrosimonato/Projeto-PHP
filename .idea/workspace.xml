@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2ef75b1-ec33-4c90-bebf-4539664428a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/projeto/src" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1iiEp8VdwxDEI1MB3ufDvbJsbgv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php-primeiros-passos\projeto\src" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="run" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2ef75b1-ec33-4c90-bebf-4539664428a3" name="Default Changelist" comment="" />
+      <created>1602382191638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602382191638</updated>
+      <workItem from="1602382192709" duration="12594000" />
+      <workItem from="1603130494134" duration="8633000" />
+      <workItem from="1603226986213" duration="727000" />
+      <workItem from="1603228153739" duration="19671000" />
+      <workItem from="1603313467213" duration="4363000" />
+      <workItem from="1603327843566" duration="4772000" />
+      <workItem from="1603397363991" duration="599000" />
+      <workItem from="1603732310102" duration="477000" />
+      <workItem from="1603733126666" duration="4003000" />
+      <workItem from="1604348356922" duration="12000" />
+      <workItem from="1604625074170" duration="652000" />
+      <workItem from="1604675560125" duration="17907000" />
+      <workItem from="1604853136085" duration="192000" />
+      <workItem from="1604853531535" duration="3682000" />
+      <workItem from="1605281978473" duration="267000" />
+      <workItem from="1605283093838" duration="273000" />
+      <workItem from="1605283488358" duration="216000" />
+      <workItem from="1605530327374" duration="543000" />
+      <workItem from="1606156618417" duration="529000" />
+      <workItem from="1606158338453" duration="15000" />
+      <workItem from="1606158556164" duration="1785000" />
+      <workItem from="1607034277913" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="48" key="#CLI_Interpreters" timestamp="1604854084065">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="526" y="48" key="#CLI_Interpreters/0.0.1366.738@0.0.1366.738" timestamp="1604854084065" />
+    <state x="436" y="189" key="#Notifications" timestamp="1604782649612">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="436" y="189" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1604782649612" />
+    <state x="143" y="0" width="588" height="738" key="#PHP" timestamp="1604853985519">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="143" y="0" width="588" height="738" key="#PHP/0.0.1366.738@0.0.1366.738" timestamp="1604853985519" />
+    <state x="275" y="10" key="#Plugins" timestamp="1603734794470">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="10" key="#Plugins/0.0.1366.738@0.0.1366.738" timestamp="1603734794470" />
+    <state x="124" y="10" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604853998718">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="124" y="10" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1604853998718" />
+    <state x="483" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1606159013386">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="483" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1606159013386" />
+    <state x="110" y="159" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604779049050">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="110" y="159" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1604779049050" />
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603227126715">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1603227126715" />
+    <state x="453" y="202" key="#com.intellij.tools.ToolEditorDialog" timestamp="1604853885913">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="453" y="202" key="#com.intellij.tools.ToolEditorDialog/0.0.1366.738@0.0.1366.738" timestamp="1604853885913" />
+    <state x="228" y="44" key="EnvironmentVariablesDialog" timestamp="1604854103677">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="228" y="44" key="EnvironmentVariablesDialog/0.0.1366.738@0.0.1366.738" timestamp="1604854103677" />
+    <state x="161" y="124" key="FileChooserDialogImpl" timestamp="1604854108727">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="161" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1604854108727" />
+    <state width="1322" height="175" key="GridCell.Tab.0.bottom" timestamp="1606160009337">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="175" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606160009337" />
+    <state width="1322" height="175" key="GridCell.Tab.0.center" timestamp="1606160009337">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="175" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1606160009337" />
+    <state width="1322" height="175" key="GridCell.Tab.0.left" timestamp="1606160009337">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="175" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1606160009337" />
+    <state width="1322" height="175" key="GridCell.Tab.0.right" timestamp="1606160009337">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="175" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1606160009337" />
+    <state x="295" y="68" key="NewPhpClassDialog" timestamp="1606158649452">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="295" y="68" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1606158649452" />
+    <state x="628" y="348" key="NewPhpFileDialog" timestamp="1604777868807">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="628" y="348" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1604777868807" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1605283399097">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1605283399097" />
+    <state x="577" y="22" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1604853898304">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="577" y="22" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1366.738@0.0.1366.738" timestamp="1604853898304" />
+    <state x="-16" y="155" width="672" height="677" key="run.anything.popup" timestamp="1603332740591">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="-16" y="155" width="672" height="677" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1603332740591" />
+    <state x="346" y="59" key="search.everywhere.popup" timestamp="1604750528157">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1604750528157" />
+  </component>
+</project>
